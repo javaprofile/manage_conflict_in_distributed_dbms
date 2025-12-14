@@ -1,6 +1,6 @@
 # manage_conflict_in_distributed_dbms
 **MANAGING CONFLICT RATE REDUCTION IN SCALABLE DISTRIBUTED DATABASE SYSTEMS**
-* Author: Vipul Reddy
+* Author: Vipul Kumar Bondugula
 * Published In : International Journal of Innovative Research and Creative Technology (IJIRCT)
 * Publication Date: 01-2023
 * E-ISSN: 2454-5988
@@ -47,7 +47,7 @@ Enabled safe and efficient concurrent transaction execution across distributed n
 
 **Citation** \
 MANAGING CONFLICT RATE REDUCTION IN SCALABLE DISTRIBUTED DATABASE SYSTEMS
-* Vipul R 
+* Vipul Kumar Bondugula 
 * International Journal of Innovative Research and Creative Technology 
 * E-ISSN-2454-5988 
 * License \
@@ -55,6 +55,6 @@ This research is shared for a academic and research purposes. For commercial use
 **Resources** \
 https://www.ijirct.org/ \
 **Author Contact** \
-**LinkedIn**: http://linkedin.com/in/Please add here | **Email**: please keep email id @gmail.com
+**LinkedIn**: https://www.linkedin.com/in/vipul-b-18468a19/ | **Email**: vipulreddy574@gmail.com
 
 
