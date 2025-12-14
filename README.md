@@ -24,37 +24,37 @@ Analyzed limitations of Snapshot Isolation and addressed write-write conflicts a
   Led the study and implementation focusing on improving consistency and performance in distributed databases through advanced concurrency control techniques.
 
 **Relevance & Real-World Impact**
-* **CPU Resource Optimization:**\
-Improved processing efficiency in big data systems by addressing imbalance in CPU distribution using containerization and control groups.
+* **Conflict Rate Reduction:**\
+Improved transaction throughput in distributed database systems by reducing write-write conflicts and transaction aborts using Multi-Version Concurrency Control.
 
-* **Intelligent Scheduling Integration:**\
-Applied machine learning and reinforcement learning techniques to dynamically allocate CPU resources based on workload patterns, enhancing throughput and reliability.
+* **Enhanced Concurrency Management:**\
+Enabled safe and efficient concurrent transaction execution across distributed nodes by addressing consistency challenges inherent in Snapshot Isolation.
 
-* **Academic Recognition :** \
-    Recognized in technical analyses and academic investigations focused on DNS resolution strategies and performance tuning in distributed systems.
-* **Educational Impact:** \
-    Findings utilized in programs and research efforts, supporting continued exploration of container orchestration and cloud system optimization.
+* **System Performance Improvement :** \
+    Lowered latency and retry overhead in high-traffic, write-intensive workloads through effective conflict detection and resolution mechanisms.
+* **Academic & Research Impact:** \
+    Findings support ongoing research and educational efforts in distributed databases, concurrency control, and scalable data management systems.
 
 **Experimental Results (Summary)**:
 
-  | Nodes | Baseline CPU Util (%)   | Optimized CPU Util (%)     | Reduction (%)   |
+  | Nodes | SI Conflict Rate (%)    | MVCC Conflict Rate(%)      | Reduction (%)   |
   |-------|-------------------------| ---------------------------| ----------------|
-  | 3     | 76                      | 61                         | 19.74           |
-  | 5     | 81                      | 64                         | 20.99           |
-  | 7     | 84                      | 68                         | 19.05           |
-  | 9     | 87                      | 69                         | 20.69           |
-  | 11    | 89                      | 70                         | 21.35           |
+  | 3     |  5                      |  3                         | 40.00           |
+  | 5     |  9                      |  6                         | 33.33           |
+  | 7     | 14                      | 10                         | 28.57           |
+  | 9     | 20                      | 15                         | 25.00           |
+  | 11    | 27                      | 21                         | 22.22           |
 
 **Citation** \
-DYNAMIC MULTI-OBJECTIVE RESOURCE OPTIMIZATION IN BIG DATA CLUSTERS
-* Kanagalakshmi Murugan 
-* International Journal on Science and Technology 
-* E-ISSN-2229-7677 
+MANAGING CONFLICT RATE REDUCTION IN SCALABLE DISTRIBUTED DATABASE SYSTEMS
+* Vipul R 
+* International Journal of Innovative Research and Creative Technology 
+* E-ISSN-2454-5988 
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijsat.org/ \
+https://www.ijirct.org/ \
 **Author Contact** \
-**LinkedIn**: http://linkedin.com/in/kanagalakshmi-murugan-12b278199 | **Email**: kanagalakshmi2004@gmail.com
+**LinkedIn**: http://linkedin.com/in/Please add here | **Email**: please keep email id @gmail.com
 
 
