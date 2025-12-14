@@ -1,7 +1,7 @@
 # manage_conflict_in_distributed_dbms
 **MANAGING CONFLICT RATE REDUCTION IN SCALABLE DISTRIBUTED DATABASE SYSTEMS**
 * Author: Vipul Reddy
-* Published In : International Journal on Science and Technology (IJSAT)
+* Published In : International Journal on Science and Technology (IJIRCT)
 * Publication Date: 06-2022
 * E-ISSN: 2229-7677
 * Impact Factor: 9.88
