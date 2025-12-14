@@ -8,19 +8,20 @@
 * Link:
 
 **Abstract:**\
-This paper addresses performance limitations in big data systems caused by inefficient CPU utilization. It explores how poor CPU distribution leads to resource underuse or overload, affecting throughput and latency. The study emphasizes the role of containerization, control groups, and intelligent scheduling—including machine learning and reinforcement learning—in optimizing CPU allocation. By adapting to workload patterns, these methods improve processing efficiency and system reliability. The paper highlights the need for dynamic, data-driven CPU management in large-scale, distributed computing environments.
+This paper addresses performance degradation in distributed database systems caused by high transaction conflict rates. It examines how concurrent access to shared data under Snapshot Isolation leads to write-write conflicts, increased transaction aborts, and reduced throughput. The study emphasizes the role of Multi-Version Concurrency Control in managing consistency while enabling concurrent transaction execution across distributed nodes. By maintaining multiple data versions and isolating transactions effectively, this approach reduces conflicts and improves system performance. The paper highlights the need for efficient, conflict-aware concurrency control mechanisms in large-scale distributed database environments.
 
 **Key Contributions:**
-* **CPU Allocation Optimization:**\
-Developed strategies leveraging containerization and control groups to improve CPU utilization in big data environments.
+* **Conflict Rate Reduction:**\
+Developed a conflict management approach using Multi-Version Concurrency Control to reduce transaction interference in distributed database systems.
 
-* **Intelligent Scheduling Techniques:**\
-Applied machine learning and reinforcement learning methods to dynamically adapt CPU distribution based on workload patterns.
+* **Concurrency Control Enhancement:**\
+Analyzed limitations of Snapshot Isolation and addressed write-write conflicts and write skew anomalies in high-concurrency environments.
   
-* **Performance Comparison:** \
-  Conducted bench marking between baseline CPU utilization and Optimization CPU utilization.
-* **Reserach Leadership:**\
-  Directed the study and hands-on development, concentrating on improving distributed databases through innovative algorithmic solutions.
+* **Performance Evaluation:** \
+  Assessed the impact of conflict rates on transaction aborts, throughput, and latency under write-intensive workloads.
+  
+* **Research Leadership:**\
+  Led the study and implementation focusing on improving consistency and performance in distributed databases through advanced concurrency control techniques.
 
 **Relevance & Real-World Impact**
 * **CPU Resource Optimization:**\
