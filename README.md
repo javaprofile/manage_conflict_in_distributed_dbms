@@ -1,9 +1,5 @@
 # manage_conflict_in_distributed_dbms
-MANAGING CONFLICT RATE REDUCTION IN SCALABLE DISTRIBUTED DATABASE SYSTEMS
-
-# bigdata
-
-**DYNAMIC MULTI-OBJECTIVE RESOURCE OPTIMIZATION IN BIG DATA CLUSTERS**
+**MANAGING CONFLICT RATE REDUCTION IN SCALABLE DISTRIBUTED DATABASE SYSTEMS**
 * Author: Kanagalakshmi Murugan
 * Published In : International Journal on Science and Technology (IJSAT)
 * Publication Date: 06-2022
