@@ -4,7 +4,7 @@
 ### Paper Information
 - **Author(s):** Vipul Kumar Bondugula
 - **Published In:** International Journal of Innovative Research and Creative Technology (IJIRCT)
-- **Publication Date:** 01-2023
+- **Publication Date:** Jan 2023
 - **ISSN:** E-ISSN 2454-5988
 - **DOI:**
 - **Impact Factor:** 9.142
