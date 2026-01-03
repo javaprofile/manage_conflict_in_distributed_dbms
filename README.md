@@ -9,20 +9,20 @@
 - **DOI:**
 - **Impact Factor:** 9.142
 
-**Abstract:**\
+### Abstract
 This paper addresses performance degradation in distributed database systems caused by high transaction conflict rates. It examines how concurrent access to shared data under Snapshot Isolation leads to write-write conflicts, increased transaction aborts, and reduced throughput. The study emphasizes the role of Multi-Version Concurrency Control in managing consistency while enabling concurrent transaction execution across distributed nodes. By maintaining multiple data versions and isolating transactions effectively, this approach reduces conflicts and improves system performance. The paper highlights the need for efficient, conflict-aware concurrency control mechanisms in large-scale distributed database environments.
 
-**Key Contributions:**
-* **Conflict Rate Reduction:**\
-Developed a conflict management approach using Multi-Version Concurrency Control to reduce transaction interference in distributed database systems.
+### Key Contributions
+- **Conflict Rate Reduction:**
+  Developed a conflict management approach using Multi-Version Concurrency Control to reduce transaction interference in distributed database systems.
 
-* **Concurrency Control Enhancement:**\
-Analyzed limitations of Snapshot Isolation and addressed write-write conflicts and write skew anomalies in high-concurrency environments.
+- **Concurrency Control Enhancement:**
+  Analyzed limitations of Snapshot Isolation and addressed write-write conflicts and write skew anomalies in high-concurrency environments.
   
-* **Performance Evaluation:** \
+- **Performance Evaluation:**
   Assessed the impact of conflict rates on transaction aborts, throughput, and latency under write-intensive workloads.
   
-* **Research Leadership:**\
+- **Research Leadership:**
   Led the study and implementation focusing on improving consistency and performance in distributed databases through advanced concurrency control techniques.
 
 **Relevance & Real-World Impact**
