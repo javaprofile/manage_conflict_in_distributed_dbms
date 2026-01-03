@@ -1,11 +1,13 @@
-# manage_conflict_in_distributed_dbms
-**MANAGING CONFLICT RATE REDUCTION IN SCALABLE DISTRIBUTED DATABASE SYSTEMS**
-* Author: Vipul Kumar Bondugula
-* Published In : International Journal of Innovative Research and Creative Technology (IJIRCT)
-* Publication Date: 01-2023
-* E-ISSN: 2454-5988
-* Impact Factor: 9.142
-* Link:
+# Manage Conflict in Distributed DBMS
+**Managing Conflict Rate Reduction in Scalable Distributed Database Systems**
+
+### Paper Information
+- **Author(s):** Vipul Kumar Bondugula
+- **Published In:** International Journal of Innovative Research and Creative Technology (IJIRCT)
+- **Publication Date:** 01-2023
+- **ISSN:** E-ISSN 2454-5988
+- **DOI:**
+- **Impact Factor:** 9.142
 
 **Abstract:**\
 This paper addresses performance degradation in distributed database systems caused by high transaction conflict rates. It examines how concurrent access to shared data under Snapshot Isolation leads to write-write conflicts, increased transaction aborts, and reduced throughput. The study emphasizes the role of Multi-Version Concurrency Control in managing consistency while enabling concurrent transaction execution across distributed nodes. By maintaining multiple data versions and isolating transactions effectively, this approach reduces conflicts and improves system performance. The paper highlights the need for efficient, conflict-aware concurrency control mechanisms in large-scale distributed database environments.
