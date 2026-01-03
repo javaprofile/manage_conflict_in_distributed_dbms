@@ -25,19 +25,19 @@ This paper addresses performance degradation in distributed database systems cau
 - **Research Leadership:**
   Led the study and implementation focusing on improving consistency and performance in distributed databases through advanced concurrency control techniques.
 
-**Relevance & Real-World Impact**
-* **Conflict Rate Reduction:**\
-Improved transaction throughput in distributed database systems by reducing write-write conflicts and transaction aborts using Multi-Version Concurrency Control.
+### Relevance & Real-World Impact
+- **Conflict Rate Reduction:**
+  Improved transaction throughput in distributed database systems by reducing write-write conflicts and transaction aborts using Multi-Version Concurrency Control.
 
-* **Enhanced Concurrency Management:**\
-Enabled safe and efficient concurrent transaction execution across distributed nodes by addressing consistency challenges inherent in Snapshot Isolation.
+- **Enhanced Concurrency Management:**
+  Enabled safe and efficient concurrent transaction execution across distributed nodes by addressing consistency challenges inherent in Snapshot Isolation.
 
-* **System Performance Improvement :** \
+- **System Performance Improvement :**
     Lowered latency and retry overhead in high-traffic, write-intensive workloads through effective conflict detection and resolution mechanisms.
-* **Academic & Research Impact:** \
+- **Academic & Research Impact:**
     Findings support ongoing research and educational efforts in distributed databases, concurrency control, and scalable data management systems.
 
-**Experimental Results (Summary)**:
+### Experimental Results (Summary)
 
   | Nodes | SI Conflict Rate (%)    | MVCC Conflict Rate(%)      | Reduction (%)   |
   |-------|-------------------------| ---------------------------| ----------------|
@@ -47,7 +47,7 @@ Enabled safe and efficient concurrent transaction execution across distributed n
   | 9     | 20                      | 15                         | 25.00           |
   | 11    | 27                      | 21                         | 22.22           |
 
-**Citation** \
+### Citation
 MANAGING CONFLICT RATE REDUCTION IN SCALABLE DISTRIBUTED DATABASE SYSTEMS
 * Vipul Kumar Bondugula 
 * International Journal of Innovative Research and Creative Technology 
